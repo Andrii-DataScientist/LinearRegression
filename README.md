@@ -1,0 +1,1 @@
+### This is implementation of linear regression with EDA analysis before it, more details there are inside jupyter notebook in markdown cells ###
